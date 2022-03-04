@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fetch-data-challenge/static/css/main.55b0482e.css",
+    "main.js": "/fetch-data-challenge/static/js/main.8e43f0bc.js",
+    "index.html": "/fetch-data-challenge/index.html",
+    "main.55b0482e.css.map": "/fetch-data-challenge/static/css/main.55b0482e.css.map",
+    "main.8e43f0bc.js.map": "/fetch-data-challenge/static/js/main.8e43f0bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55b0482e.css",
+    "static/js/main.8e43f0bc.js"
+  ]
+}
