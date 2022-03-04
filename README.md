@@ -1,3 +1,5 @@
+This react project was built using the tutorial from Dave Gray on youtube https://www.youtube.com/watch?v=RVFAyFWO4go&t=11026s
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
