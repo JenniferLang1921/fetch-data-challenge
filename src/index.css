@@ -16,7 +16,7 @@ body {
 }
 
 form {
-  width: 100%;
+  width: 90%;
   position: fixed;
 }
 
@@ -40,7 +40,7 @@ li {
 }
 
 .table-container {
-  width: 100%;
+  width: 90%;
   overflow-y: auto;
   padding-top: 52px;
 }
